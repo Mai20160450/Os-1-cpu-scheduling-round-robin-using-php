@@ -1,0 +1,138 @@
+body{
+    background: #c94b4b;
+    background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);
+    background: linear-gradient(to right, #4b134f, #c94b4b);
+}
+
+h1 {
+    padding-top: 25px;
+    color: #4b134f;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: 700;
+    text-shadow: -3pX 5px 6px #000000;
+    text-align: center;
+}
+.Form{
+    border: 2px solid #4b134f;
+    box-shadow: 10px 10px 10px #79274d;
+    border-radius: 4px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    padding: 0 20px;
+}
+label {
+
+    margin: 50px 30px;
+    color: #d5cdcd;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.form-control {
+  
+    display: inline;
+    width:auto;
+    text-align: center
+}
+
+.btn-primary {
+    color: #d1cdcd;
+    background-color: #4c134f;
+    border-color: #5e1c4f;
+    border-radius: 10px;
+    padding: 10px 157px;
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+
+.btn-primary:hover,.btn-primary:active{
+    background-color: #75264e;
+    border-color: #862d4d;
+}
+
+form{
+   color: #d1cdcd; 
+}
+
+.table-bordered {
+    margin: 69px 0;
+    color: #d5cdcd;
+}
+
+.GandChart{
+    list-style: none;
+    color: #d5cdcd;
+    overflow: hidden;
+}
+
+.GandChart li{
+   float: left;
+    display: inline-block;
+    padding: 15px 10px;
+    border: 1px solid;
+}
+
+.QtResults{
+    list-style: none;
+    color: #d5cdcd;
+    overflow: hidden;
+    margin-bottom:50px
+}
+
+.QtResults li{
+   float: left;
+    display: inline-block;
+    padding-right: 25px;
+    padding-right: 28px;
+    font-size: 10px;
+    color: #FFF;
+    font-weight: bold;
+}
+    
+
+/*td,th,tr{
+        background-color: black;
+    color: white;
+}
+.GandChart{
+padding: 0;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.table{
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.GandChartElments{
+    list-style: none;
+    float: left;
+    background-color: red;
+    width: 100px;
+    margin-bottom: 20px;
+    border-left: 1px solid #000;
+    padding-left: 40px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+
+.QtResults{
+        margin-top: -32px;
+    margin-left: -89px;
+}
+.QtElments{
+ list-style: none;
+    float: left;
+    margin-right: 50px;
+    display: inline-block;
+    padding-left: 83px;
+}*/
